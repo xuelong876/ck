@@ -1,0 +1,50 @@
+﻿{
+  "urls": [
+    {
+      "url": "https://codeberg.org/xuelong876/MyTvBox/raw/branch/main/box1/simpleBOX.json",
+      "name": "🌟精简线路🌟"
+    },
+    {
+      "url": "https://codeberg.org/xuelong876/MyTvBox/raw/branch/main/pgbox/jsm.json",
+      "name": "🌟PG精简🌟"
+    },
+    {
+      "url": "http://www.饭太硬.com/tv/",
+      "name": "🌟饭太硬🌟"
+    },
+    
+    {
+      "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
+      "name": "🌟吾爱线路🌟"
+    },
+ 
+    {
+      "url": "http://ok321.top/ok",
+      "name": "🌟OK线路🌟"
+    },
+  
+   
+  
+    {
+      "url": "https://gh.con.sh/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/pg/jsm.json",
+      "name": "🌟PG线路🌟"
+    },
+
+
+
+    {
+      "url": "https://gitee.com/tvkj/tw/raw/main/svip.json",
+      "name": "🌟天微影视🌟"
+    },
+    {
+      "url": "https://gh.con.sh/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "name": "🌟香雅情🌟"
+    },
+      {
+      "url": "http://肥猫.com",
+      "name": "🌟肥猫线路🌟"
+    }
+ 
+
+  ]
+}
