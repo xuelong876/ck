@@ -1,11 +1,11 @@
 ﻿{
   "urls": [
     {
-      "url": "https://codeberg.org/xuelong876/MyTvBox/raw/branch/main/box1/simpleBOX.json",
+      "url": "https://gh.con.sh/https://raw.githubusercontent.com/xuelong876/MyTvBox/main/box1/simpleBOX.json",
       "name": "🌟精简线路🌟"
     },
     {
-      "url": "https://codeberg.org/xuelong876/MyTvBox/raw/branch/main/pgbox/jsm.json",
+      "url": "https://gh.con.sh/https://raw.githubusercontent.com/xuelong876/pgbox/main/jsm.json",
       "name": "🌟PG精简🌟"
     },
     {
@@ -26,7 +26,7 @@
    
   
     {
-      "url": "https://gh.con.sh/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/pg/jsm.json",
+      "url": "https://gh.con.sh/https://raw.github.com/ouhaibo1980/tvbox/master/pg/jsm.json",
       "name": "🌟PG线路🌟"
     },
 
@@ -37,7 +37,7 @@
       "name": "🌟天微影视🌟"
     },
     {
-      "url": "https://gh.con.sh/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "url": "https://gh.con.sh/https://raw.github.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
       "name": "🌟香雅情🌟"
     },
       {
