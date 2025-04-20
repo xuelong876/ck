@@ -122,21 +122,7 @@
       "changeable": 0,
       "filterable": 1
     },
-    {
-      "key": "追剧仔弹幕",
-      "name": "💘追剧｜弹幕",
-      "type": 3,
-      "api": "csp_Zjz",
-      "jar": "https://xn--4vv4-rp5imh.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "danmu": false
-      },
-      "timeout": 10
-    },
+
     {
       "key": "快看",
       "name": "❤快看|影视",
