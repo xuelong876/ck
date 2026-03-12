@@ -1,50 +1,40 @@
-﻿{
+{
   "urls": [
+   {
+      "url": " https://9877.kstore.space/AnotherD/api.json",
+      "name": "🐼潇洒_凯速🐼"
+    },
+
     {
-      "url": "https://gh.con.sh/https://raw.githubusercontent.com/xuelong876/MyTvBox/main/box1/simpleBOX.json",
-      "name": "🌟精简线路🌟"
+      "url": "https://qist.ugigc.dpdns.org/xiaosa/api.json",
+      "name": "🐼潇洒_github🐼"
+    },
+  {
+      "url": "http://tv.999888987.xyz",
+      "name": "🐼王二小_在线🐼"
+    },
+  
+    {
+      "url": "https://9280.kstore.space/wex.json",
+      "name": "🐼王二小_凯速🐼"
+    },
+
+   {
+      "url": "https://www.252035.xyz/p/jsm.json",
+      "name": "🐼PG_github🐼"
     },
     {
-      "url": "https://gh.con.sh/https://raw.githubusercontent.com/xuelong876/pgbox/main/jsm.json",
-      "name": "🌟PG精简🌟"
+      "url": "https://www.252035.xyz/p/jsm.json",
+      "name": "🐼PG_github🐼"
     },
     {
-      "url": "http://www.饭太硬.com/tv/",
-      "name": "🌟饭太硬🌟"
-    },
-    
-    {
-      "url": "http://52pan.top:81/api/v3/file/get/174964/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.m3u?sign=rPssLoffquDXszCARt6UNF8MobSa1FA27XomzOluJBY%3D%3A0",
-      "name": "🌟吾爱线路🌟"
+      "url": "clan://localhost/mybox_PG/jsm.json",
+      "name": "🐼本地_线路🐼"
     },
  
-    {
-      "url": "http://ok321.top/ok",
-      "name": "🌟OK线路🌟"
-    },
-  
-   
-  
-    {
-      "url": "https://gh.con.sh/https://raw.github.com/ouhaibo1980/tvbox/master/pg/jsm.json",
-      "name": "🌟PG线路🌟"
-    },
-
-
-
-    {
-      "url": "https://gitee.com/tvkj/tw/raw/main/svip.json",
-      "name": "🌟天微影视🌟"
-    },
-    {
-      "url": "https://gh.con.sh/https://raw.github.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
-      "name": "🌟香雅情🌟"
-    },
       {
-      "url": "http://肥猫.com",
-      "name": "🌟肥猫线路🌟"
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xuelong876/mybox_PG/refs/heads/main/jsm.json",
+      "name": "🐼雪龙_github🐼"
     }
- 
-
   ]
 }
